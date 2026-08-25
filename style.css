@@ -162,14 +162,6 @@ nav {
     opacity: 0.7;
 }
 
-.video-placeholder {
-    aspect-ratio: 16 / 9;
-    background: #ddd;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .about {
     padding: 120px 12%;
     display: grid;
