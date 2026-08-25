@@ -207,11 +207,9 @@ footer {
     opacity: 0.5;
 }
 
-
 /* MOBILE */
 
 @media (max-width: 700px) {
-
     header {
         padding: 25px;
     }
